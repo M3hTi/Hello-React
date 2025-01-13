@@ -11,7 +11,7 @@ const welcome = {
 
 
 function getMsg(obj){
-  return `${obj.greeting}, ${welcome.title}`
+  return `${obj.greeting}, ${obj.title}`
 }
 
 function App() {
